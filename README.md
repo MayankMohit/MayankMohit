@@ -10,7 +10,7 @@
 
 - 🎓 **B.Tech (Mechanical Engineering)** @ NIT Jamshedpur — building software instead 😄
 - 💼 **SWE Co-Op Intern** @ AlgoUniversity (YC-backed) — built a production online judge from scratch
-- 🌐 **Freelance Frontend Dev** @ Slic Media — 60 FPS animations, 40% faster load times
+- 🌐 **Freelance Frontend Dev** @ Slic Media — smooth animations, 40% faster load times, SEO.
 - 🏗️ Passionate about **System Design** — both LLD (patterns, OOP) and HLD (distributed systems, scalability)
 - 🧠 Deep into **DSA** in C++ — graphs, DP, trees, greedy
 - 💬 Ask me about **MERN**, **Next.js**, **Docker**, **WebSockets**, or **System Design**
