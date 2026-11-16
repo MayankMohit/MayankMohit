@@ -11,7 +11,7 @@
 - 🎓 **B.Tech (Mechanical Engineering)** @ NIT Jamshedpur — building software instead 😄
 - 💼 **SWE Co-Op Intern** @ AlgoUniversity (YC-backed) — built a production online judge from scratch
 - 🌐 **Freelance Frontend Dev** @ Slic.
-- 🏗️ Passionate about **System Design** — LLD & HLD.
+- 🏗️ Passionate about **System Design** - HLD.
 - 🧠 Deep into **DSA** in C++
 - 💬 Ask me about **MERN**, **Next.js**, **DevOps** or **System Design**
 
@@ -61,7 +61,7 @@
 ## 🧠 DSA & System Design
 
 - Solving problems daily in **C++** — arrays, trees, graphs, DP, greedy
-- Interested in **LLD** (design patterns, OOP, class diagrams) and **HLD** (distributed systems, caching, load balancing, scalability)
+- Interested **HLD** (distributed systems, caching, load balancing, scalability)
 - Built real systems that reflect these concepts — rate limiting, RBAC, sandboxed execution, microservices
 
 ---
